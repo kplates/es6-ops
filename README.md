@@ -1,2 +1,2 @@
 # es6-ops
-some complex javascript operations
+es6 operations
